@@ -1,4 +1,4 @@
-/*
+
 let a = 12; 
 let  b = 25; 
 
@@ -28,8 +28,8 @@ console.log(result); // -13
 
 let a = 12; 
 let  b = 25; 
-*/
-/*var a=10;
+
+var a=10;
 console.log(a);
 var b=10;
 function fun()
@@ -39,8 +39,7 @@ function fun()
 }
 console.log(b);
 fun();
-*/
-/*
+
 var c=100;
 {
     var c=200;
@@ -67,16 +66,15 @@ function fun()
     console.log(d);
 }
 fun();
-*/
-/*
+
+
 const a=100;
 a=200;
 console.log(a);
 const g=100;
 
 console.log(g);
-*/
-/*
+
 let age=18;
 
 switch(true)
@@ -91,7 +89,7 @@ switch(true)
         console.log("not eligible");
 }
 
-*/
+
 
 let day=5;
 switch(day)
